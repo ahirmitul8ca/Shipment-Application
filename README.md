@@ -1,6 +1,6 @@
 # Shipment-Application
 
-# Shipment-Application
+# An E.R.P Module to manage Supply chain Operations
 
 The Shipment Application, developed in collaboration with Spectrum Dyes & Chemicals Private Limited, represents a sophisticated computerized solution tailored for the Purchase Department. Seamlessly managing both Import and Domestic operations, the application employs a robust technological stack comprising C#, .NET Framework, and Entity Framework Core. It excels in real-time shipment tracking, providing prioritized notifications and a user-friendly dashboard for in-transit shipments. The inclusion of an Automatic Import Custom Duty Calculation Module ensures precise and compliant duty calculations. Additionally, the E-Documents Module enhances document management and regulatory adherence. The system's operational efficiency is further underscored by an Auto-calculate Costing feature, which significantly reduces manual errors in cost estimations.
 
